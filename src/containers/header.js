@@ -1,7 +1,7 @@
 import React from 'react';
 import {Header} from '../components';
 
-export default function HeaderContainer() {
+export function HeaderContainer() {
     return (
         <Header>
             <Header.Frame>
